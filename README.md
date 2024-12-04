@@ -1,7 +1,7 @@
-## Deep Information Retrieval Hybrid
+# Deep Information Retrieval Hybrid
 This project explores using embeddings from a large language model (LLM) to support standard document retrieval in the context of scientific literature. Specifically, it leverages the SPECTER2 transformer model to generate dense document and query embeddings, which are then compared with the traditional vector space retrieval (VSR) approach. A hybrid retrieval method is proposed, combining the dense retrieval and traditional VSR techniques to evaluate the potential improvements in retrieval performance.
 
-# Project Overview
+## Project Overview
 The goal of this project is to evaluate the effectiveness of deep learning-based embeddings (SPECTER2) for scientific document retrieval and compare them with a traditional vector space retrieval system. The project involves the following main steps:
 
 1. Document and Query Embeddings:
